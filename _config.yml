@@ -1,7 +1,15 @@
 title: Duy Ngoc Lam (Dan Lam) # your name (or website title) here
+
 logo: "/images/LDN.png?raw=true" # your photo (or logo) here
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/usdanlam/">LinkedIn</a> |
+  <a href="https://github.com/duyngoclam">GitHub</a>
+  </p>
+  
+  <p align="justify">
   An Analyst, 
   <br>
   A Entrepreneur 
